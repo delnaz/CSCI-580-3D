@@ -1,0 +1,52 @@
+﻿Build started 10/30/2014 12:01:22 PM.
+     1>Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 5\Gundevia_Delnaz_HW5\CS580HW5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\CS580HW5.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application5.cpp
+         Application5.cpp
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(96): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(104): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(111): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(112): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(115): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(119): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(128): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(129): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(130): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(131): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(134): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(135): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(136): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(54): warning C4101: 'shaderType' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(239): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(245): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(251): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 5\gundevia_delnaz_hw5\application5.cpp(257): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW5.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\CS580HW5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW5.lib" /MACHINE:X86 /SAFESEH .\Debug\CS580HW.res
+         .\Debug\Application.obj
+         .\Debug\Application5.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\RotateDlg.obj
+         .\Debug\ScaleDlg.obj
+         .\Debug\StdAfx.obj
+         .\Debug\tex_fun.obj
+         .\Debug\TranslateDlg.obj
+         CS580HW5.vcxproj -> C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 5\Gundevia_Delnaz_HW5\.\Debug\CS580HW5.exe
+     1>Done Building Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 5\Gundevia_Delnaz_HW5\CS580HW5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
