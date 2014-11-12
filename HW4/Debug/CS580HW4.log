@@ -1,0 +1,48 @@
+﻿Build started 10/17/2014 3:16:14 PM.
+     1>Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 4\Gundevia_Delnaz_HW4\Gundevia_Delnaz_HW4\CS580HW4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\CS580HW4.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application4.cpp
+         Application4.cpp
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(93): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(101): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(125): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(126): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(127): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(128): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(131): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(132): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(133): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(50): warning C4101: 'shaderType' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(43): warning C4101: 'camera' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(233): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(239): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(245): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 4\gundevia_delnaz_hw4\gundevia_delnaz_hw4\application4.cpp(251): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW4.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\CS580HW4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW4.lib" /MACHINE:X86 /SAFESEH .\Debug\CS580HW.res
+         .\Debug\Application.obj
+         .\Debug\Application4.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\RotateDlg.obj
+         .\Debug\ScaleDlg.obj
+         .\Debug\StdAfx.obj
+         .\Debug\TranslateDlg.obj
+         CS580HW4.vcxproj -> C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 4\Gundevia_Delnaz_HW4\Gundevia_Delnaz_HW4\.\Debug\CS580HW4.exe
+     1>Done Building Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 4\Gundevia_Delnaz_HW4\Gundevia_Delnaz_HW4\CS580HW4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49
