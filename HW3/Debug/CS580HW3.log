@@ -1,0 +1,50 @@
+﻿Build started 10/16/2014 1:32:58 PM.
+     1>Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 3\Gundevia_Delnaz_HW3\CS580HW3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\CS580HW3.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application3.cpp
+         Application3.cpp
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(25): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(81): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(89): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(48): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(47): warning C4101: 'camera' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(48): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(183): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(189): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(195): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(145): warning C4101: 'dispClass' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(145): warning C4101: 'yRes' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(134): warning C4101: 'camera' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(145): warning C4101: 'xRes' : unreferenced local variable
+     1>c:\users\delnaz06\documents\csci 580 - 3d\homework 3\gundevia_delnaz_hw3\application3.cpp(144): warning C4101: 'j' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\CS580HW3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW3.lib" /MACHINE:X86 /SAFESEH .\Debug\CS580HW.res
+         .\Debug\Application.obj
+         .\Debug\Application3.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\RotateDlg.obj
+         .\Debug\ScaleDlg.obj
+         .\Debug\StdAfx.obj
+         .\Debug\TranslateDlg.obj
+         CS580HW3.vcxproj -> C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 3\Gundevia_Delnaz_HW3\.\Debug\CS580HW3.exe
+     1>Done Building Project "C:\Users\delnaz06\Documents\CSCI 580 - 3D\Homework 3\Gundevia_Delnaz_HW3\CS580HW3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.56
